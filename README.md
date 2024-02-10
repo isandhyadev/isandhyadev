@@ -24,5 +24,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![isandhyadev's GitHub | Stats](https://stats.quine.sh/isandhyadev/github?theme=dark)](https://quine.sh)
 [![An image of @isandhyadev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/isandhyadev)](https://holopin.io/@isandhyadev)
+[![isandhyadev's GitHub | Stats](https://stats.quine.sh/isandhyadev/github?theme=dark)](https://quine.sh)
+

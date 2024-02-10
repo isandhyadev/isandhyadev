@@ -1,5 +1,15 @@
-### Hi there 👋
-
+<!--### Hi there 👋-->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Cedarville+Cursive&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&color=3688FF&lines=Hi+There!👋🏻+;+I'm+Sandhya+dev!;" />
+</h1> 
+<!-- <div>
+  <a href="https://www.twitter.com/" target="blank" class="me-4 ">
+        <i class="fab fa-twitter"></i>
+            </a>
+</div> -->
+<!-- <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=courier&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👋+;+I'm+Sandhya+dev!;" />
+</h1> -->
 <!--
 **isandhyadev/isandhyadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
